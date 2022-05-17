@@ -10,10 +10,15 @@ Take the cable to poles and make the phones working.
 
 
 A,D OR "left-right" arrow keys: left-right
+
 SPACE or "up arrow key": jump
+
 E -extend the cable
+
 R -agglomerate the cable
+
 Q- throw the cable
+
 X- Restart
 
 HTML5 Version: https://arifyaman.github.io/soundcarrier/
